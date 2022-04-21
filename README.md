@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cerisesav
 - 👀 I’m interested in programming, cybersecurity, Linux
-- 🌱 I’m currently learning python and terminal
+- 🌱 I’m currently learning python and Shell
 
 
 <!---
