@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cerisesav
+- 👋 Hi, I’m @cerisesav, my name is Victoria 
 - 👀 I’m interested in programming, cybersecurity, Linux
-- 🌱 I’m currently learning python and Shell
+- 🌱 I’m currently learning Python and Bash, a little bit Java Script
 
 
 <!---
