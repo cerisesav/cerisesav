@@ -1,5 +1,7 @@
-mipt diht student
-system programming & applied math
+languages: Russian, English, German
+languages: C, Python, (a bit) Shell & C++
+
+MIPT
 
 
 <!---
