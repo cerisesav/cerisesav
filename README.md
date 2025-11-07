@@ -1,7 +1,7 @@
 languages: Russian, English, German
-languages: C, Python, (a bit) Shell & C++
+languages: C, C++, Bash, Python, Haskell, Java
 
-MIPT
+BCs. MIPT SAMCS (ex. DIHT) System Programming & Applied Mathematics - 2024 - 2028 
 
 
 <!---
